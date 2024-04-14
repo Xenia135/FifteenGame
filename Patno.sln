@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patno", "Patno.csproj", "{863BA385-8148-4AE3-B967-ABB1E0BC8355}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Par2", "Par2\Par2.csproj", "{DF96363E-FAB3-4E38-AEA9-D43A8CC8453B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComponentLibrary", "ComponentLibrary\ComponentLibrary.csproj", "{3E9A2907-6B65-4C41-B106-94921A6CCA53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{863BA385-8148-4AE3-B967-ABB1E0BC8355}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{863BA385-8148-4AE3-B967-ABB1E0BC8355}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{863BA385-8148-4AE3-B967-ABB1E0BC8355}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{863BA385-8148-4AE3-B967-ABB1E0BC8355}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF96363E-FAB3-4E38-AEA9-D43A8CC8453B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF96363E-FAB3-4E38-AEA9-D43A8CC8453B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF96363E-FAB3-4E38-AEA9-D43A8CC8453B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF96363E-FAB3-4E38-AEA9-D43A8CC8453B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E9A2907-6B65-4C41-B106-94921A6CCA53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E9A2907-6B65-4C41-B106-94921A6CCA53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E9A2907-6B65-4C41-B106-94921A6CCA53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E9A2907-6B65-4C41-B106-94921A6CCA53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7EEC36BF-2CF6-4674-9A66-7E1CBC97AEAE}
+	EndGlobalSection
+EndGlobal
