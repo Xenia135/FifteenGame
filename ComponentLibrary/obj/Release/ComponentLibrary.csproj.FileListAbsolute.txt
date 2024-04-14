@@ -1,0 +1,8 @@
+D:\Програмирование\PIS\ComponentLibrary\bin\Release\ComponentLibrary.dll
+D:\Програмирование\PIS\ComponentLibrary\bin\Release\ComponentLibrary.pdb
+D:\Програмирование\PIS\ComponentLibrary\obj\Release\ComponentLibrary.csproj.AssemblyReference.cache
+D:\Програмирование\PIS\ComponentLibrary\obj\Release\ComponentLibrary.GameTimer.resources
+D:\Програмирование\PIS\ComponentLibrary\obj\Release\ComponentLibrary.csproj.GenerateResource.cache
+D:\Програмирование\PIS\ComponentLibrary\obj\Release\ComponentLibrary.csproj.CoreCompileInputs.cache
+D:\Програмирование\PIS\ComponentLibrary\obj\Release\ComponentLibrary.dll
+D:\Програмирование\PIS\ComponentLibrary\obj\Release\ComponentLibrary.pdb

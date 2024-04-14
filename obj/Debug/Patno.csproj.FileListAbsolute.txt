@@ -1,0 +1,54 @@
+E:\Пятнашки\Patno\bin\Debug\Patno.exe.config
+E:\Пятнашки\Patno\bin\Debug\Patno.exe
+E:\Пятнашки\Patno\bin\Debug\Patno.pdb
+E:\Пятнашки\Patno\obj\Debug\Patno.csproj.AssemblyReference.cache
+E:\Пятнашки\Patno\obj\Debug\_1.Form1.resources
+E:\Пятнашки\Patno\obj\Debug\Patno.Properties.Resources.resources
+E:\Пятнашки\Patno\obj\Debug\Patno.csproj.GenerateResource.cache
+E:\Пятнашки\Patno\obj\Debug\Patno.csproj.CoreCompileInputs.cache
+E:\Пятнашки\Patno\obj\Debug\Patno.exe
+E:\Пятнашки\Patno\obj\Debug\Patno.pdb
+E:\Пятнашки\Patno\bin\Debug\Par2.dll
+E:\Пятнашки\Patno\bin\Debug\Par2.pdb
+E:\Пятнашки\Patno\obj\Debug\Patno.csproj.CopyComplete
+E:\Пятнашки\Patno\obj\Debug\Patno.csproj.SuggestedBindingRedirects.cache
+E:\пятнашки стыб\Пятнашки\Patno\obj\Debug\Patno.csproj.AssemblyReference.cache
+E:\пятнашки стыб\Пятнашки\Patno\obj\Debug\_1.Form1.resources
+E:\пятнашки стыб\Пятнашки\Patno\obj\Debug\Patno.Properties.Resources.resources
+E:\пятнашки стыб\Пятнашки\Patno\obj\Debug\Patno.csproj.GenerateResource.cache
+E:\пятнашки стыб\Пятнашки\Patno\obj\Debug\Patno.csproj.CoreCompileInputs.cache
+E:\пятнашки стыб\Пятнашки\Patno\obj\Debug\Patno.exe
+E:\пятнашки стыб\Пятнашки\Patno\obj\Debug\Patno.pdb
+E:\пятнашки стыб\Пятнашки\Patno\bin\Debug\Patno.exe.config
+E:\пятнашки стыб\Пятнашки\Patno\bin\Debug\Patno.exe
+E:\пятнашки стыб\Пятнашки\Patno\bin\Debug\Patno.pdb
+E:\пятнашки стыб\Пятнашки\Patno\bin\Debug\Par2.dll
+E:\пятнашки стыб\Пятнашки\Patno\bin\Debug\Par2.pdb
+E:\пятнашки стыб\Пятнашки\Patno\obj\Debug\Patno.csproj.CopyComplete
+D:\Програмирование\Patno\bin\Debug\Patno.exe.config
+D:\Програмирование\Patno\bin\Debug\Patno.exe
+D:\Програмирование\Patno\bin\Debug\Patno.pdb
+D:\Програмирование\Patno\bin\Debug\Par2.dll
+D:\Програмирование\Patno\bin\Debug\Par2.pdb
+D:\Програмирование\Patno\obj\Debug\Patno.csproj.AssemblyReference.cache
+D:\Програмирование\Patno\obj\Debug\Patno.csproj.SuggestedBindingRedirects.cache
+D:\Програмирование\Patno\obj\Debug\_1.Form1.resources
+D:\Програмирование\Patno\obj\Debug\Patno.Properties.Resources.resources
+D:\Програмирование\Patno\obj\Debug\Patno.csproj.GenerateResource.cache
+D:\Програмирование\Patno\obj\Debug\Patno.csproj.CoreCompileInputs.cache
+D:\Програмирование\Patno\obj\Debug\Patno.csproj.CopyComplete
+D:\Програмирование\Patno\obj\Debug\Patno.exe
+D:\Програмирование\Patno\obj\Debug\Patno.pdb
+D:\Patno\obj\Debug\Patno.csproj.AssemblyReference.cache
+D:\Patno\obj\Debug\_1.Form1.resources
+D:\Patno\obj\Debug\Patno.Properties.Resources.resources
+D:\Patno\obj\Debug\Patno.csproj.GenerateResource.cache
+D:\Patno\obj\Debug\Patno.csproj.CoreCompileInputs.cache
+D:\Patno\obj\Debug\Patno.exe
+D:\Patno\obj\Debug\Patno.pdb
+D:\Patno\bin\Debug\Patno.exe.config
+D:\Patno\bin\Debug\Patno.exe
+D:\Patno\bin\Debug\Patno.pdb
+D:\Patno\bin\Debug\Par2.dll
+D:\Patno\bin\Debug\Par2.pdb
+D:\Patno\obj\Debug\Patno.csproj.CopyComplete
